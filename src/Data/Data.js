@@ -1,0 +1,48 @@
+export const projects = [
+  
+    {
+        id: 1,
+        name: 'Buy-It',
+        desc: "Discover an immersive eCommerce emporium meticulously crafted with cutting-edge technologies. Our web platform, engineered with ReactJS and adorned with the finesse of TailwindCSS.",
+        tool: 'ReactJS',
+        color: '#03befc',
+        github: 'https://github.com/pHanToMcaNCoDE/buy-it',
+        view: 'https://buy-it-1-0.vercel.app/',
+    },
+    {
+        id: 2,
+        name: 'Movie-Box',
+        desc: 'A movie website that displays the latest block buster movies currently airing on cinemas, as well as searching for the movie of your choice. TMDB API was consumed.',
+        tool: 'ReactJS',
+        color: '#03befc',
+        github: 'https://github.com/pHanToMcaNCoDE/zuri-movie-box-1.0',
+        view: 'https://zuri-movie-box-1-0.vercel.app',
+    },
+    {
+        id: 3,
+        name: "Health Sync",
+        desc: "Maintain your health and fitness goals with HealthSync. HealthSync is a fitness application that tracks your fat loss journey, your muscle gain journey, provides users with recommended exercises to attain their goals, tracks their calories, and so much more.",
+        tool: 'ReactJS',
+        color: '#03befc',
+        github: 'https://github.com/pHanToMcaNCoDE/HealthSync-Frontend',
+        view: 'https://health-sync.vercel.app/',
+    },
+    {
+        id: 4,
+        name: 'Zuri Portfolio',
+        desc: 'Zuri Portfolio helps to explore a world of talents, create your personalized portfolio, and sell your digital products in your very own shop. Your dreams, your creations, your success – all in one place. Start your journey today.',
+        tool: 'ReactJS',
+        color: '#03befc',
+        github: 'https://github.com/pHanToMcaNCoDE/Name-zuriportfolio-frontend',
+        view: 'https://zuriportfolio-frontend-pw1h.vercel.app/',
+    },
+    {
+        id: 5,
+        name: 'Photon-Gallery',
+        desc: 'An image gallary that allows users to drag and drop images in an order of their choice. A login and register form was implemented using ReactJS and Firebase to add more interaction between the users and the gallery. A search function was also integrated to allow users to search for images in the gallery.',
+        tool: 'ReactJS',
+        color: '#03befc',
+        github: 'https://github.com/pHanToMcaNCoDE/Photon-Gallery',
+        view: 'https://photon-gallery.vercel.app/',
+    },
+]
