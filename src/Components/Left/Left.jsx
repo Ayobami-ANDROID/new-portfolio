@@ -12,7 +12,7 @@ const Left = () => {
                 Ajetunmobi Ayobami .J
             </span>
             <p className='duration-300 textTwo text-sans text-zinc-600 text-[.8rem] md:text-[1.2rem] lg:text-[1.2rem] tracking-widest text-center'>Solution-driven 
-                 Full-Stack Developer with experience in developing stunning web applications using technologies such as <span className='text-yellow-500 underline'>JavaScript</span>, <span className='text-pink-500 underline'>Sass</span>, <span className='text-purple-500 underline'>Bootstrap</span>, <span className='text-blue-500 underline'>ReactJS <span className='text-white'>,</span> TailwindCSS</span> and <span className='text-purple-700 underline'>PHP/<span className='text-yellow-500 underline'>MySQL</span></span>.
+                 Full-Stack Developer with experience in developing stunning web applications using technologies such as <span className='text-yellow-500 underline'>JavaScript</span>, <span className='text-pink-500 underline'>TypeScript</span>,   <span className='text-purple-500 underline'>Mern-Stack</span>, <span className='text-pink-500 underline'>Redux</span> <span className='text-purple-700 underline'>GSAP</span> <span className='text-blue-500 underline'>ReactJS <span className='text-white'>,</span> TailwindCSS</span> and <span className='text-purple-700 underline'>postgresql/<span className='text-yellow-500 underline'>MySQL</span></span>  .
             </p>
         </div>
         {/* <SocialLinks/> */}
