@@ -37,9 +37,9 @@ const Right = () => {
       </Link>
 
       <a
-        href="https://drive.google.com/file/d/1bRVCEmfGxF7IU4kzFRdM9-b-l2d1Y3Tq/view"
+        href="https://drive.google.com/file/d/1srZozpaBB95Pa0BFuQkj2OmAUsMo4qH3/view?usp=sharing"
         target="_blank"
-        download="Victory Odumeh Frontend Developer"
+        download="Ajetunnmobi Ayobami Resume"
       >
         <div className="flex flex-col after:rounded-lg after:duration-300 after:w-1 after:inline-flex after:h-[1px] after:bg-white hover:after:w-full cursor-pointer duration-300 hover:scale-105 appearOne mx-auto w-[90%] md:w-[70%] lg:w-[80%] my-8 rounded-lg bg-zinc-900">
           <div className="flex flex-col p-5 justify-between">
