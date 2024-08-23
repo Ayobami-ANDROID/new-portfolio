@@ -37,7 +37,7 @@ const Right = () => {
       </Link>
 
       <a
-        href="https://drive.google.com/file/d/1srZozpaBB95Pa0BFuQkj2OmAUsMo4qH3/view?usp=sharing"
+        href="https://drive.google.com/file/d/1QimCrbmebWNop3eux6KWXlqEyv0VZJ7S/view?usp=sharing"
         target="_blank"
         download="Ajetunnmobi Ayobami Resume"
       >
